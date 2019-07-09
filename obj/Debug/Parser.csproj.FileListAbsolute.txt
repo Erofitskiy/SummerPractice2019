@@ -1,0 +1,15 @@
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.FormMain.resources
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.Properties.Resources.resources
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.csproj.GenerateResource.cache
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\Parser.exe.config
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\Parser.exe
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\Parser.pdb
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\AngleSharp.dll
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\AngleSharp.xml
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.exe
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\obj\Debug\Parser.pdb
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\Parser.exe.CodeAnalysisLog.xml
+C:\Users\MRX\Desktop\Html-Parser-Tutorial-master\bin\Debug\Parser.exe.lastcodeanalysissucceeded
